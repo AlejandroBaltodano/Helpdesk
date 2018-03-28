@@ -1,0 +1,5 @@
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Model\bin\Debug\HelpDesk.Model.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Model\bin\Debug\HelpDesk.Model.pdb
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Model\obj\Debug\HelpDesk.Model.csprojResolveAssemblyReference.cache
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Model\obj\Debug\HelpDesk.Model.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.Model\obj\Debug\HelpDesk.Model.pdb

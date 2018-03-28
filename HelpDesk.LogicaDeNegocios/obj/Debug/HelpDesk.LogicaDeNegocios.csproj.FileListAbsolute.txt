@@ -1,0 +1,11 @@
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.LogicaDeNegocios.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.LogicaDeNegocios.pdb
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.AccesoADatos.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.Model.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\EntityFramework.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.AccesoADatos.pdb
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\HelpDesk.Model.pdb
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\bin\Debug\EntityFramework.xml
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\obj\Debug\HelpDesk.LogicaDeNegocios.csprojResolveAssemblyReference.cache
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\obj\Debug\HelpDesk.LogicaDeNegocios.dll
+c:\users\angie\documents\visual studio 2015\Projects\HelpDesk\HelpDesk.LogicaDeNegocios\obj\Debug\HelpDesk.LogicaDeNegocios.pdb
